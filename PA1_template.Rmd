@@ -7,19 +7,27 @@ output:
 
 
 ## Loading and preprocessing the data
+```{r}
+activity <- read.csv("~/DataScience/Reproducible/activity.csv")
+```
 
 
 
 ## What is mean total number of steps taken per day?
-
+```{r}
+```
 
 
 ## What is the average daily activity pattern?
-
+```{r}
+```
 
 
 ## Imputing missing values
-
+```{r}
+```
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
+```{r}
+```
