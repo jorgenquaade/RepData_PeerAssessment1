@@ -1,4 +1,6 @@
 # Reproducible Research: Peer Assessment 1
+## Introduction - Setting up the environment
+The environment has to be set up to the right locale and libraries dplyr and ggplot2 has to be loaded. However, since this is obscuring the actual report with really ugly output I have decided to hide the code and the output. It can be seen in the PA1_template.Rmd file.
 
 
 
