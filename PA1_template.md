@@ -5,7 +5,7 @@
 
 
 ## Loading and preprocessing the data
-Code for loading the data. Converting date column into date format. I would normally remove NA's but since imputing is part of this exercise I keep them. 
+Code for loading the data. Converting date column into date format. I would normally remove NAs but since imputing is part of this exercise I keep them. 
 
 ```r
 activity <- read.csv("~/DataScience/Reproducible/activity.csv")

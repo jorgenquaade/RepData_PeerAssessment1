@@ -66,7 +66,7 @@ img {
 
 <div id="loading-and-preprocessing-the-data" class="section level2">
 <h2>Loading and preprocessing the data</h2>
-<p>Code for loading the data. Converting date column into date format. I would normally remove NA’s but since imputing is part of this exercise I keep them.</p>
+<p>Code for loading the data. Converting date column into date format. I would normally remove NAs but since imputing is part of this exercise I keep them.</p>
 <pre class="r"><code>activity &lt;- read.csv(&quot;~/DataScience/Reproducible/activity.csv&quot;)
 ## Converting date column from factor to date
 activity$date &lt;- as.Date(activity$date)</code></pre>
